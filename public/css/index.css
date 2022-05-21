@@ -1,0 +1,9 @@
+.center{
+    height : 100vh;
+    width : 100vw;
+    background: #111111;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
